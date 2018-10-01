@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="DiscoverySuite" time="31" tests="2" failures="0" errors="0">
+   <testsuite name="DiscoverySuite" tests="2" failures="0" errors="0" time="31" timestamp="2018-10-01 14:39:35" hostname="LDCL313952$ - LDCL313952.dne.dci.discovery.com" id="Test Suites/DiscoverySuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sjain1\\Katalon Studio\\DiscoveryEducation\\Reports\\DiscoverySuite\\20181001_143933"/>
+         <property name="logFiles" value="C:\\Users\\sjain1\\Katalon Studio\\DiscoveryEducation\\Reports\\DiscoverySuite\\20181001_143933\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LDCL313952$ - LDCL313952.dne.dci.discovery.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Firefox 60.0"/>
+         <property name="hostAddress" value="10.97.0.119"/>
+         <property name="sessionId" value="cf6341df-2dd2-4c4b-82ee-c2207228fba6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/WorkspaceRegression" classname="Test Cases/WorkspaceRegression" status="PASSED">
+         <system-out><![CDATA[2018-10-01 14:39:36 - [TEST_CASE][PASSED] - Test Cases/WorkspaceRegression: Test Cases/WorkspaceRegression
+
+2018-10-01 14:39:37 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-01 14:39:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-01 14:39:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://workspace-qa.discoveryeducation.co.uk/on-boarding' successfully
+
+2018-10-01 14:39:49 - [MESSAGE][PASSED] - Navigate to 'https://workspace-qa.discoveryeducation.co.uk/on-boarding' successfully
+
+2018-10-01 14:39:49 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/button_SKIP' is clicked on
+
+2018-10-01 14:39:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/button_SKIP' is clicked on
+
+2018-10-01 14:39:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/span_Explore our resources' is clicked on
+
+2018-10-01 14:39:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/span_Explore our resources' is clicked on
+
+2018-10-01 14:39:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/div_X' is clicked on
+
+2018-10-01 14:39:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/div_X' is clicked on
+
+2018-10-01 14:39:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/h5_Dashboard' is clicked on
+
+2018-10-01 14:39:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/h5_Dashboard' is clicked on
+
+2018-10-01 14:39:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/a_Token login' is clicked on
+
+2018-10-01 14:39:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/a_Token login' is clicked on
+
+2018-10-01 14:39:54 - [TEST_STEP][PASSED] - setText: Text 'fKQnwnxDJa*RK*' is set on object 'Object Repository/Page_DEUK-Workspace/input_Dashboard_token'
+
+2018-10-01 14:39:54 - [MESSAGE][PASSED] - Text 'fKQnwnxDJa*RK*' is set on object 'Object Repository/Page_DEUK-Workspace/input_Dashboard_token'
+
+2018-10-01 14:39:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/button_Submit' is clicked on
+
+2018-10-01 14:39:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/button_Submit' is clicked on
+
+2018-10-01 14:39:54 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_DEUK-Workspace/button_Logout' is present
+
+2018-10-01 14:39:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-01 14:39:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_DEUK-Workspace/button_Logout' is present
+
+2018-10-01 14:39:54 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-01 14:39:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SearchFunction" classname="Test Cases/SearchFunction" status="PASSED">
+         <system-out><![CDATA[2018-10-01 14:39:55 - [TEST_CASE][PASSED] - Test Cases/SearchFunction: Test Cases/SearchFunction
+
+2018-10-01 14:39:55 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-01 14:39:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-01 14:39:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://workspace-qa.discoveryeducation.co.uk/on-boarding' successfully
+
+2018-10-01 14:40:03 - [MESSAGE][PASSED] - Navigate to 'https://workspace-qa.discoveryeducation.co.uk/on-boarding' successfully
+
+2018-10-01 14:40:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/button_SKIP (2)' is clicked on
+
+2018-10-01 14:40:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/button_SKIP (2)' is clicked on
+
+2018-10-01 14:40:04 - [TEST_STEP][PASSED] - setText: Text 'addotion' is set on object 'Object Repository/Page_DEUK-Workspace/input_Start searching to find (2)'
+
+2018-10-01 14:40:05 - [MESSAGE][PASSED] - Text 'addotion' is set on object 'Object Repository/Page_DEUK-Workspace/input_Start searching to find (2)'
+
+2018-10-01 14:40:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/button' is clicked on
+
+2018-10-01 14:40:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/button' is clicked on
+
+2018-10-01 14:40:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_DEUK-Workspace/h4_Did you mean (1)' is clicked on
+
+2018-10-01 14:40:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DEUK-Workspace/h4_Did you mean (1)' is clicked on
+
+2018-10-01 14:40:06 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-01 14:40:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-01 14:39:35 - [TEST_SUITE][PASSED] - DiscoverySuite: Test Cases/SearchFunction]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
